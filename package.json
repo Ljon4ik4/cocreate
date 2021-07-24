@@ -30,6 +30,7 @@
     "@babel/preset-react": "^7.12.13",
     "@babel/runtime": "^7.11.2",
     "debounce": "^1.2.1",
+    "jszip-sync": "^3.2.1-sync",
     "meteor-node-stubs": "^1.0.1",
     "pepjs": "^0.5.3",
     "pug": "^3.0.2",

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+    <path fill="none" d="M-34 183h677" />
+    <path
+        d="M360 0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V24c0-13.3-10.7-24-24-24zm-59.5 377.4L204 473.1c-6.7 6.6-17.4 6.6-24 0l-96.4-95.7c-10.2-10.1-3-27.4 11.3-27.4H160v-80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v80h65.2c14.3 0 21.4 17.3 11.3 27.4z" />
+    <text transform="scale(1.05953 .94381)" fill="#fff" font-family="Impact" font-size="92.518" x="32.936" y="122.323"
+        stroke-width=".422">SVG</text><text transform="scale(1.05953 .94381)" fill="#fff" font-family="Impact"
+        font-size="92.518" x="195.441" y="156.695" stroke-width=".422">SVG</text><text transform="scale(1.05953 .94381)"
+        fill="#fff" font-family="Impact" font-size="92.518" x="37.58" y="230.222" stroke-width=".422">SVG</text>
+</svg>
